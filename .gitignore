@@ -33,3 +33,5 @@ dockerize
 /shard-manager-server
 /shard-manager-canary
 /smctl
+*.csv
+*.pyc
